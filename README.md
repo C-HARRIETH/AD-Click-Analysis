@@ -5,7 +5,7 @@ Which individuals are most likely to click on an online cryptography course adve
 
 
 ## Description
-A Kenyan entrepreneur has created an online cryptography course and would want to advertise it on her blog. She currently targets audiences originating from various countries. In the past, she ran ads to advertise a related course on the same blog and collected data in the process. She would now like to employ your services as a Data Science Consultant to help her identify which individuals are most likely to click on her ads. [This link shows the analysis done](file:///C:/Users/Harriet%20Chebet/Documents/Moringa/Rmarkdown/Moringa_Core_Week_12_IP_Chebet_Harrieth.html)
+A Kenyan entrepreneur has created an online cryptography course and would want to advertise it on her blog. She currently targets audiences originating from various countries. In the past, she ran ads to advertise a related course on the same blog and collected data in the process. She would now like to employ your services as a Data Science Consultant to help her identify which individuals are most likely to click on her ads.
 
 ## Setup Requirements
 RStudio.
